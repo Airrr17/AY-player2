@@ -1,5 +1,5 @@
 # AY-3-8912 psg music player.  
-**Based on code https://gist.github.com/anteo/0e5d8867df7568a6523d54e19983d8e0  **
+**Based on code https://gist.github.com/anteo/0e5d8867df7568a6523d54e19983d8e0**
   
   
 Board version 0.9:  
@@ -27,4 +27,7 @@ Just some photos here.
 [![click for full size](pics/ay02s.jpg)](pics/ay02.jpg)
 [![click for full size](pics/ay03s.jpg)](pics/ay03.jpg)
 [![click for full size](pics/ay04s.jpg)](pics/ay04.jpg)
-[![click for full size](pics/ay05s.jpg)](pics/ay05.jpg)
+[![click for full size](pics/ay05s.jpg)](pics/ay05.jpg)  
+  
+  Version 2.0 are coming...  
+  
